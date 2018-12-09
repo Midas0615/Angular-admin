@@ -50,7 +50,6 @@ And you can access the frontend by visiting [http://localhost:8080](http://local
 ### Banners
 ![image](https://github.com/Midas0615/Angular-admin/blob/master/banners.png)
 
-##demo
 
 ## Credits
 
