@@ -7,7 +7,7 @@ Live site [https://concert-ticket-admin.herokuapp.com/](https://concert-ticket-a
 
 ## Table of Contents
 
-   * [Angular Ticket Admin](#Angular Ticket Admin)
+   * [Angular Ticket Admin](#Angular-Ticket-Admin)
       * [Introduction](#introduction)
       * [Prerequisites](#Prerequisites)
       * [Getting Started](#getting-started)
@@ -42,13 +42,13 @@ And you can access the frontend by visiting [http://localhost:8080](http://local
 ## Screenshots
 
 ### Booking
-![image](Angular-admin/Booking.png)
+![image](https://github.com/Midas0615/Angular-admin/blob/master/Booking.png)
 
 ### Categories
-![image](Angular-admin/Categories.png)
+![image](https://github.com/Midas0615/Angular-admin/blob/master/Categories.png)
 
 ### Banners
-![image](Angular-admin/banners.png)
+![image](https://github.com/Midas0615/Angular-admin/blob/master/banners.png)
 
 ##demo
 
