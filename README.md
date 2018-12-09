@@ -7,11 +7,11 @@ Live site [https://concert-ticket-admin.herokuapp.com/](https://concert-ticket-a
 
 ## Table of Contents
 
-   * [Angular Ticket Admin]
+   * [Angular Ticket Admin](#Angular Ticket Admin)
       * [Introduction](#introduction)
       * [Prerequisites](#Prerequisites)
       * [Getting Started](#getting-started)
-      * [Run the App](#Run the App)
+      * [Run the App](#Run-the-App)
       * [screenshot](#screenshot)
       * [demo](#demo)
       * [Credits](#credits)
@@ -30,6 +30,7 @@ You will need the following resources properly installed on the machine.
 $ cd .
 $ npm install
 ```
+
 ## Run the App
 
 ```bash
@@ -48,9 +49,6 @@ And you can access the frontend by visiting [http://localhost:8080](http://local
 
 ### Banners
 ![image](Angular-admin/banners.png)
-
-### Main Chat
-![image](https://user-images.githubusercontent.com/17595822/38169216-1c0e0e4a-356d-11e8-84e6-c4586acbd71e.png)
 
 ##demo
 
