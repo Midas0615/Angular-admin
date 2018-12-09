@@ -1,4 +1,4 @@
-# Fury - Angular 2 Material Design Admin Template
+# Concert ticket admin
 ## Introduction
 
 Fury is a creative material design admin template built with Angular 2 and the Angular-CLI. It extends the Material Design components built by the Angular 2 team and it offers you everything you need to get started with your next CRM, CMS or dashboard based project.
