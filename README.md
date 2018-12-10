@@ -3,9 +3,9 @@
 
 This is a Booking system to book the ticket for various kinds of categories.
 
-Live site [https://concert-ticket-admin.herokuapp.com/](https://concert-ticket-admin.herokuapp.com/)
+[Live site](https://concert-ticket-admin.herokuapp.com/)
 
-Demo [https://www.dropbox.com/home?preview=Booking.mov](https://www.dropbox.com/home?preview=Booking.mov)
+[Demo](https://www.dropbox.com/home?preview=Booking.mov)
 
 ## Table of Contents
 
@@ -30,6 +30,8 @@ You will need the following resources properly installed on the machine.
 # Install the dependencies.
 $ cd .
 $ npm install
+$ npm rebuild node-sass 
+$ npm run build
 ```
 
 ## Run the App
@@ -49,7 +51,7 @@ And you can access the frontend by visiting [http://localhost:8080](http://local
 ![image](https://github.com/Midas0615/Angular-admin/blob/master/Categories.png)
 
 ### Banners
-![image](https://github.com/Midas0615/Angular-admin/blob/master/)
+![image](https://github.com/Midas0615/Angular-admin/blob/master/Banners.png)
 
 
 ## Credits
