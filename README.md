@@ -5,6 +5,8 @@ This is a Booking system to book the ticket for various kinds of categories.
 
 Live site [https://concert-ticket-admin.herokuapp.com/](https://concert-ticket-admin.herokuapp.com/)
 
+Demo [https://www.dropbox.com/home?preview=Booking.mov](https://www.dropbox.com/home?preview=Booking.mov)
+
 ## Table of Contents
 
    * [Angular Ticket Admin](#Angular-Ticket-Admin)
@@ -13,7 +15,6 @@ Live site [https://concert-ticket-admin.herokuapp.com/](https://concert-ticket-a
       * [Getting Started](#getting-started)
       * [Run the App](#Run-the-App)
       * [screenshot](#screenshot)
-      * [demo](#demo)
       * [Credits](#credits)
       
 ## Prerequisites
@@ -48,7 +49,7 @@ And you can access the frontend by visiting [http://localhost:8080](http://local
 ![image](https://github.com/Midas0615/Angular-admin/blob/master/Categories.png)
 
 ### Banners
-![image](https://github.com/Midas0615/Angular-admin/blob/master/banners.png)
+![image](https://github.com/Midas0615/Angular-admin/blob/master/)
 
 
 ## Credits
